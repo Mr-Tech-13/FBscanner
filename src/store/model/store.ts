@@ -70,6 +70,7 @@ export type Series =
   | 'udr-us'
   | 'unvr'
   | 'unvr-pro'
+  | 'jetski'
   | 'xboxsx'
   | 'xboxss';
 
@@ -263,6 +264,16 @@ export type Model =
   | 'xlr8 verto'
   | 'xlr8 uprising'
   | 'xtreme'
+  | 'Kawasaki jet mate'
+  | 'Kawasaki Sport cruiser'
+  | 'Kawasaki xir'
+  | 'Kawasaki jetski'
+  | 'Seadoo HX'
+  | 'jetski'
+  | 'kawasaki x2'
+  | 'kawasaki jet ski'
+  | 'yamaha waverunner'
+  | 'yamaha waveblaster'
   | 'qick';
 
 export type Link = {
