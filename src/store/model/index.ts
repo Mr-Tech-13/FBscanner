@@ -6,6 +6,7 @@ import {Materiel} from './materiel';
 import {Adorama} from './adorama';
 import {Akinformatica} from './akinformatica';
 import {Allneeds} from './allneeds';
+import {FacebookMP} from './facebookmp';
 import {AlternateDe} from './alternate-de';
 import {AlternateFr} from './alternate-fr';
 import {AlternateNL} from './alternate-nl';
@@ -246,6 +247,7 @@ export const storeList = new Map([
   [Evga.name, Evga],
   [EvgaEu.name, EvgaEu],
   [Expert.name, Expert],
+  [FacebookMP.name, FacebookMP],
   [Futurex.name, Futurex],
   [Galaxus.name, Galaxus],
   [Game.name, Game],
