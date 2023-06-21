@@ -36,6 +36,7 @@ export type Brand =
   | 'sony'
   | 'ubiquiti'
   | 'xfx'
+  | 'jetski'
   | 'zotac';
 
 export type Series =
